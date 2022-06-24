@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @michhkh
+- 👨‍💼 I’m interested in IT.
+- 👨‍💻 I’m currently learning JavaScript, HTML and CSS.
